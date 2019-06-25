@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "twright_FinancialAPI", "twright_FinancialAPI\twright_FinancialAPI.csproj", "{C9059A73-8192-4BF0-8676-B6A72CE42291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9059A73-8192-4BF0-8676-B6A72CE42291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9059A73-8192-4BF0-8676-B6A72CE42291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9059A73-8192-4BF0-8676-B6A72CE42291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9059A73-8192-4BF0-8676-B6A72CE42291}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5827E9AA-AB74-4D53-815D-7C0500C81251}
+	EndGlobalSection
+EndGlobal

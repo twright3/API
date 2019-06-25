@@ -1,0 +1,57 @@
+﻿
+    .swagger-section #header {
+        background-color: orange;
+        padding: 14px;
+    }
+
+    .swagger-section #header a#logo {
+        font-size: 1.5em;
+        font-weight: bold;
+        text-decoration: none;
+        background: url(/Images/Browser_Logo.jpg) no-repeat left center;
+        padding: 20px 0 20px 40px;
+        color: white;
+    }
+
+    .swagger-section .swagger-ui-wrap {
+        line-height: 1;
+        font-family: "Droid Sans", sans-serif;
+        max-width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    body {
+        line-height: 1;
+        background-color: orange;
+    }
+
+    .swagger-section #header form#api_selector .input a#explore {
+        display: block;
+        text-decoration: none;
+        font-weight: bold;
+        padding: 6px 8px;
+        font-size: 0.9em;
+        color: white;
+        background-color: #f15a25;
+        -moz-border-radius: 4px;
+        -webkit-border-radius: 4px;
+        -o-border-radius: 4px;
+        -ms-border-radius: 4px;
+        -khtml-border-radius: 4px;
+        border-radius: 30px;
+    }
+
+    .swagger-section .swagger-ui-wrap ul#resources li.resource div.heading h2 a {
+        color: white;
+    }
+
+    .swagger-section .swagger-ui-wrap ul#resources li.resource div.heading ul.options li a {
+        color: white;
+        text-decoration: none;
+    }
+
+    html {
+        visibility:hidden;
+    }
+
